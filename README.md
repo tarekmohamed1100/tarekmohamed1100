@@ -1,8 +1,12 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <p align="center">
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Programmer"/>
+</p>
+
+</p>
 <details open>
 <summary><b>🚀 Portfolio Status</b></summary>
 
@@ -27,7 +31,7 @@
 
 <hr></hr>
 
-
+<div align="center" >
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,6 +48,7 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ```dart
 //```typescript
@@ -142,8 +147,9 @@ console.log(me.sayHi());
 </details>
   
 <hr></hr>
-
-## 💻 Current Status
+<div align="center"  width="60%" > 
+  
+ 💻 Current Status
 
 ```text
 🟢 HTML            ██████████ 100%
@@ -154,6 +160,27 @@ console.log(me.sayHi());
 ▲ Next.js          ████░░░░░░ 40%
 ☕ Coffee           ██████████ ∞
 ```
+</div>
+
+  
+<div align="center">
+
+### ❤️ Thanks for visiting my profile!
+
+⭐ Don't forget to star my repositories if you like them.
+
+</div>
+
+
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,git,github,vscode,figma"/>
+
+</p>
+
+
+
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
